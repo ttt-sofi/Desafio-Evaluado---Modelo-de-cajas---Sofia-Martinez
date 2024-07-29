@@ -1,0 +1,10 @@
+@mixin link-style($color: #989797, $font: $font-secondary) {
+    color: $color;
+    font-family: $font;
+    font-size: 1.1rem;
+    padding-left: 30px;
+    text-decoration: none;
+
+  }
+  
+  
